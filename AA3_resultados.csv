@@ -1,9 +1,0 @@
-nombre_modelo,id_experimento,tipo,score
-clasificador_a,12,clasificacion,0.84
-clasificador_b,12,clasificacion,0.91
-clasificador_c,13,clasificacion,0.79
-regresor_ventas,21,regresion,0.76
-regresor_demanda,21,regresion,0.82
-clasificador_d,14,clasificacion,0.88
-regresor_trafico,22,regresion,0.73
-clasificador_e,15,clasificacion,0.86
