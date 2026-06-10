@@ -1,0 +1,50 @@
+[
+  {
+    "nombre_modelo": "clasificador_a",
+    "id_experimento": 12,
+    "tipo": "clasificacion",
+    "score": 0.84
+  },
+  {
+    "nombre_modelo": "clasificador_b",
+    "id_experimento": 12,
+    "tipo": "clasificacion",
+    "score": 0.91
+  },
+  {
+    "nombre_modelo": "clasificador_c",
+    "id_experimento": 13,
+    "tipo": "clasificacion",
+    "score": 0.79
+  },
+  {
+    "nombre_modelo": "regresor_ventas",
+    "id_experimento": 21,
+    "tipo": "regresion",
+    "score": 0.76
+  },
+  {
+    "nombre_modelo": "regresor_demanda",
+    "id_experimento": 21,
+    "tipo": "regresion",
+    "score": 0.82
+  },
+  {
+    "nombre_modelo": "clasificador_d",
+    "id_experimento": 14,
+    "tipo": "clasificacion",
+    "score": 0.88
+  },
+  {
+    "nombre_modelo": "regresor_trafico",
+    "id_experimento": 22,
+    "tipo": "regresion",
+    "score": 0.73
+  },
+  {
+    "nombre_modelo": "clasificador_e",
+    "id_experimento": 15,
+    "tipo": "clasificacion",
+    "score": 0.86
+  }
+]
