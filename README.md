@@ -53,11 +53,11 @@ Antes de fusionar cada pull request, el código es revisado por otros integrante
 
 ## Integrantes y responsabilidades
 
-| Integrante   | Rama                               | Responsabilidad                         |
-| ------------ | ---------------------------------- | --------------------------------------- |
-| Integrante 1 | `feature/lectura-datos`            | Lectura de CSV, JSON y datos de ejemplo |
-| Integrante 2 | `feature/analisis-resultados`      | Funciones de análisis de modelos        |
-| Integrante 3 | `feature/menu-tests-documentacion` | Menú, pruebas y documentación           |
+| Integrante     | Rama                               | Responsabilidad                         |
+| -------------- | ---------------------------------- | --------------------------------------- |
+| Marc Ferrer    | `feature/lectura-datos`            | Lectura de CSV, JSON y datos de ejemplo |
+| Mauro Tognetti | `feature/analisis-resultados`      | Funciones de análisis de modelos        |
+| Elena C        | `feature/menu-tests-documentacion` | Menú, pruebas y documentación           |
 
 ## Ejecución del proyecto
 
@@ -76,3 +76,4 @@ python -m unittest discover tests
 ## Objetivo académico
 
 Este repositorio forma parte de una actividad evaluable sobre trabajo colaborativo con Git. El propósito es aplicar un flujo completo de colaboración usando repositorio remoto, ramas, commits, pull requests, revisión de código y resolución de conflictos.
+ón de conflictos.
